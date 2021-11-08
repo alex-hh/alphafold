@@ -1,5 +1,10 @@
 ![header](imgs/header.jpg)
 
+# Purpose of fork
+
+To make minor modifications that allow more straightforward docker-free standalone usage of alphafold.
+(e.g. installation as a python package within a virtualenv)
+
 # AlphaFold
 
 This package provides an implementation of the inference pipeline of AlphaFold
